@@ -1,1 +1,27 @@
 programacion es un eningma 
+
+UNIVERSIDAD DE LAS FUERZAS ARMADAS
+NOMBRE: SOFIA RIVAS 
+NRC: 2355
+MATERIA: PROGRAMACIÓN ORIENTADA A OBJETOS
+
+DEBER RESUMEN DEL VIDEO ¿QUÉ ES LA PROGRAMACION ORIENTADA A OBJETOS?
+Concepto no1
+La programación orientada a objetos es un paradigma porque cada uno de los elementos 
+que necesita el programa es un objeto que tiene su propio funcionamiento, comportamientos y datos. Con este se ha pasado de tener códigos con funcionalidades unidas de arriba hacia abajo 
+a tener elementos separados y aquí los objetos se comunican entre ellos con sus datos y funcionalidades propios. Esto le hace que programar sea de una manera más específica y aquí los códigos 
+se denominan clases (instancial) y con ellos se crea miles de usuarios con una solo plantilla para que se relacionen entre si y crear las aplicaciones.
+Y se basa en 4 pilares que son
+ Abstracción
+Encapsulamiento
+polimorfismo
+herencia.
+Concepto no 2
+Entiendo que es una manera de programar más específicamente y a detalle cada objeto para una mejor funcionalidad.
+
+
+
+
+
+
+
